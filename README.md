@@ -7,13 +7,13 @@ Once you have your team figured out, **make a single pull request** for your who
 * a basic project concept
 * what libraries you plan on using, as a group
 
-TEAM: Crying Jordans
+TEAM: RackeTwitter
 
 A twitter app for the racket user. 
 
 Members:
 * Nick Finocchiaro -github username: nickfinocchiaro
-* Harrison Dejardins-github username: HTdejardins
+* Harrison Dejardins-github username: HTdesjardins
 
 Concept:
 A lightweight app that will allow a user to login to their twitter account, post tweets, retweet, and search tweets based on a hash tag. 
